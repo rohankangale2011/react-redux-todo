@@ -1,7 +1,6 @@
 import {
   GET_TODO_DATA,
-  ADD_TODO_DATA,
-  DELETE_TODO_DATA
+  ADD_TODO_DATA
 } from "../actions/constant";
 
 function todoReducer(state = { data: [] }, action) {

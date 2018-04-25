@@ -1,4 +1,3 @@
-import React from 'react';
 import {connect} from "react-redux";
 import {addTodoData} from '../actions';
 import TodoComponent from '../components/todo/todo-component';
