@@ -1,0 +1,3 @@
+export const GET_TODO_DATA = "GET_TODO_DATA";
+export const ADD_TODO_DATA = "ADD_TODO_DATA";
+export const DELETE_TODO_DATA = "DELETE_TODO_DATA";

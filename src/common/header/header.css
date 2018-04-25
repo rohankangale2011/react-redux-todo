@@ -1,0 +1,29 @@
+.header-container {
+    background: #333;
+    color: #fff;
+    padding: 15px;
+    overflow: hidden;
+}
+
+.header-container .title {
+    float: left;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.header-container > ul {
+    margin: 0;
+    float: right;
+}
+
+.header-container > ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0 10px;
+}
+
+.header-container > ul li a {
+    text-decoration: none;
+    color:#fff;
+    font-size: 14px;
+}
