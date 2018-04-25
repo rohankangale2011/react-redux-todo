@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2446,4 +2445,3 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 =======
 # react-redux-todo
 A todo application using react and redux, along with routing
->>>>>>> 89c546f5426ba588ea713f0e78411fc182bea997
