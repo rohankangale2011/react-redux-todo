@@ -1,7 +1,7 @@
 <h1>React-redux todo application</h1>
 <p>A todo application using react and redux, along with routing</p>
 <h3>Quickstart</h3>
-<div><strong>Note:</strong> Application is created using <strong>create-react-app</strong>. Make sure that you have this node module installed in you system. You can install using <strong>npm install -g create-react-app</strong>.</div>
+<div><strong>Note:</strong> Application is created using <strong>create-react-app</strong>. Make sure that you have this node module installed in you system. You can install using <strong>npm install -g create-react-app</strong>.</div><br/>
 <div>Once you download or clone the repo system, run <b>npm install</b> at the root directory to install all the node module dependencies. Command for running application is mentioned in <b>package.json</b> file.</div>
 <h3>Features:</h3>
 <ul>
