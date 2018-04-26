@@ -11,4 +11,4 @@
   <li>Routing(react-redux-router): A routing mechanism for managing navigation between various screen's/page's across the application</li>
 </ul>
 <h3>Description</h3>
-<div>Application consisting of two views/pages. The <strong>ToDo</strong> view managing the todo items and <strong>Other</strong> view for now is not created. You can update code by adding the component for Other view.</div>
+<div>Application consisting of two views/pages. The <strong>ToDo</strong> view managing the todo items and <strong>Other</strong> view for now is not created. You can update code by adding the component for Other view. Also you can make use of other libraries, like <strong>bootstrap</strong>, <strong>react-bootstrap</strong>(react-bootstrap works well with react) any many more as per your application need.</div>
