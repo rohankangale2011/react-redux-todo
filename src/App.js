@@ -1,6 +1,6 @@
 import React from "react";
 import { ConnectedRouter } from "react-router-redux";
-import RouterConfig from "./route";
+import AppMain from "./route";
 import { Provider } from "react-redux";
 import { configStore, history } from "./store/store-config";
 import './App.css';
@@ -16,7 +16,7 @@ const App = () => {
     <Provider store={store}>
       <div className="app-container">
         <ConnectedRouter history={history}>
-          <RouterConfig />
+          <AppMain />
         </ConnectedRouter>
       </div>
     </Provider>
