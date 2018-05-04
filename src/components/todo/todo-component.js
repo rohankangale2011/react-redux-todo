@@ -1,6 +1,7 @@
 import React from 'react';
 import TodoAdd from './add-component';
 import TodoList from './list-component';
+import PropTypes from 'prop-types';
 import './todo.css';
 
 class TodoComponent extends React.Component {
@@ -20,6 +21,10 @@ class TodoComponent extends React.Component {
             </div>
         )
     }
+}
+
+TodoComponent.propTypes = {
+    data: PropTypes.array
 }
 
 export default TodoComponent;
